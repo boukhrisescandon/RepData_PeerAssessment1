@@ -1,13 +1,8 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
+# Reproducible Research: Peer Assessment 1
 
 Sarah Boukhris-Escandon
 
-December 7, 2015
+December 2015
 
 ## Loading and preprocessing the data
 

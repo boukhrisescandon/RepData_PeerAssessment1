@@ -7,11 +7,15 @@ output:
 
 Sarah Boukhris-Escandon
 
-December 7, 2015
+December 2015
 
 ## Loading and preprocessing the data
 
+First, load the activity monitoring data.
 
+```{r echo=true}
+input_data <- read.csv("activity.zip")
+```
 
 ## What is mean total number of steps taken per day?
 
